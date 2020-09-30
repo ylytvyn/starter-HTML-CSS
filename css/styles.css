@@ -20,13 +20,4 @@ body, html {
 	width: 100%;
 }
 
-.clear::after, .clear::before {
-	content: " ";
-	display: table;
-}
-
-.clear::after {
-	clear: both;
-}
-
 /* Main Styles */
